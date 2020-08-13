@@ -11,4 +11,7 @@ def dostuff():
 
 if __name__ == '__main__':
     dostuff()
+    #print('lets test access to a variable from utilities module')
+    #print(f"The sftp username is: {config.sftp_user}")
+    #print('now i will test a warning log from main.py')
     logger.error('actually did an error message from main.py')
