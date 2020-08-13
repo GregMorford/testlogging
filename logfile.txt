@@ -1,0 +1,12 @@
+2020-08-12 22:25:10,952 | [CRITICAL] | (log) | testing a critical message from log
+2020-08-12 22:25:10,954 | [INFO] | (log.config) | SMTP parameters are set
+2020-08-12 22:25:10,954 | [INFO] | (log.config) | SFTP parameters are set
+2020-08-12 22:25:10,954 | [WARNING] | (log.config) | testing a warning message from config
+2020-08-12 22:25:10,954 | [INFO] | (log.__main__) | dostuff function was called and did some stuff...
+2020-08-12 22:25:10,954 | [ERROR] | (log.__main__) | actually did an error message from main.py
+2020-08-12 22:26:38,138 | [CRITICAL] | (log) | testing a critical message from log
+2020-08-12 22:26:38,139 | [INFO] | (log.config) | SMTP parameters are set
+2020-08-12 22:26:38,139 | [INFO] | (log.config) | SFTP parameters are set
+2020-08-12 22:26:38,139 | [WARNING] | (log.config) | testing a warning message from config
+2020-08-12 22:26:38,139 | [INFO] | (log.__main__) | dostuff function was called and did some stuff...
+2020-08-12 22:26:38,139 | [ERROR] | (log.__main__) | actually did an error message from main.py
